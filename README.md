@@ -22,3 +22,5 @@
 
 ##  📌 Projetos e Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GomezJason\&repo=dio-lab-open-source\&bg\_color=000\&border\_color=30A3DC\&show\_icons=true\&icon\_color=30A3DC\&title\_color=E94D5F\&text\_color=FFF)](https://github.com/GomezJason/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GomezJason\&repo=trilha-net-fundamentos-desafio\&bg\_color=000\&border\_color=30A3DC\&show\_icons=true\&icon\_color=30A3DC\&title\_color=E94D5F\&text\_color=FFF)](https://github.com/GomezJason/trilha-net-fundamentos-desafio)
+
